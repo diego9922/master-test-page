@@ -1,0 +1,12 @@
+{
+    "test": "Test",
+    "git-hub-request": "GitHub Request",
+    "git-hub-request-description": "Request to GitHub for search 10 more populars google's repositories",
+    "id": "Id",
+    "name": "Name",
+    "see-repository": "See repository",
+    "description": "Description",
+    "watchers": "Watchers",
+    "open": "Open",
+    "stars": "Stars"
+}

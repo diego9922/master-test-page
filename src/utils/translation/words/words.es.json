@@ -1,0 +1,12 @@
+{
+    "test": "Prueba",
+    "git-hub-request": "Petición a GitHub",
+    "git-hub-request-description": "Petición a GitHub para buscar los 10 repositorios mas populares de google",
+    "id": "Id",
+    "name": "Nombre",
+    "see-repository": "Ver repositorio",
+    "description": "Descripción",
+    "watchers": "Observadores",
+    "open": "Abrir",
+    "stars": "Estrellas"
+}
